@@ -1,0 +1,18 @@
+Databas till ett föreningssystem
+
+System som hanterar allt som en vanlig svensk ideell förening behöver hålla koll på.
+Centralt är att systemet ska vara GDPR-kompliant, dvs det ska gå att spåra och ta bort alla personuppgifter.
+
+Medlemmar, med personuppgifter, medlemsstatus, datum för medlemskap
+Föreningens tillgångar, vad prylen är, vem som har den, inköpsdatum, värde, eventuellt utgångsdatum
+Lokaler som föreningen har tillgång till, ska gå att boka, eller dela med andra föreningar, renoveringsbehov
+Förtroendevalda, dvs styrelse, valberedning, revisorer
+Andra ansvarsområden, tex. matansvarig, lägerledare, webbmaster
+Möten, med datum, kallelse, handlingar, protokoll
+Föreningens arrangemang, tex. mässdeltagande, turnering, läger, kan vara återkommande eller unika
+Dokument, tex. protokoll, styrdokument, stadgar, best-practices, regelbok
+Externa kontakter, tex. samarbetsparters, kommun, sponsorer, andra föreningar, för kontaktuppgifter, kontaktperson
+
+Kunna ställa in föreningsspecifika uppgifter, såsom verksamhetsår
+Kunna Låna ut tillgångar till antingen medlemmar eller externa kontakter
+Kunna spåra vart alla nycklar befinner sig.
